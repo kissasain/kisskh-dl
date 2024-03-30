@@ -14,7 +14,7 @@
 
 ---
 
-👋 Welcome to the kisskh-downloader README! This package is a simple command-line tool for downloading shows from https://kisskh.co/. Here's everything you need to know to get started:
+👋 Welcome to the kisskh-downloader README! This package is a simple command-line tool for downloading shows from https://kissasian.wtf/. Here's everything you need to know to get started:
 
 ## 💻 Installation
 
@@ -48,7 +48,7 @@ Here are some examples:
 ### 🔗 Direct download entire series in highest quality available in current folder
 
 ```console
-kisskh dl "https://kisskh.co/Drama/Island-Season-2?id=7000" -o .
+kisskh dl "https://kissasian.wtf/series/in-cold-blood-2024" -o .
 ```
 
 ![Download all using URL](https://i.imgur.com/cvKYqK3.gif)
