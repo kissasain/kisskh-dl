@@ -3,7 +3,7 @@
 <div align="center">
    <img src="https://i.imgur.com/nhQtOZa.png">
    <br>
-   <strong><i>Simple downloaded for https://kisskh.co/</i></strong>
+   <strong><i>Simple downloaded for https://kissasian.wtf/</i></strong>
    <br>
    <a href="https://pypi.org/project/kisskh-downloader/">
    <img src="https://img.shields.io/pypi/v/kisskh-downloader?style=for-the-badge">
